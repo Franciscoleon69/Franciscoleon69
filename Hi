@@ -1,0 +1,7 @@
+eco "# Franciscoleon69" > README.
+git init
+git add README.
+"primer compromiso"
+rama de git -M principal
+git remoto add origen https://github. com/Franciscoleon69/Franciscoleon69. git
+git push -u origen principal
